@@ -6,7 +6,7 @@ export default function Homepage() {
         <section id="about" className="about">
             <h2>About Me</h2>
             <p>
-                Hi! I'm John Doe, a passionate full stack developer with 2 years of experience in creating dynamic and responsive web applications. I love crafting clean code and building efficient solutions to solve complex problems.
+                Hi! I&apos;m John Doe, a passionate full stack developer with 2 years of experience in creating dynamic and responsive web applications. I love crafting clean code and building efficient solutions to solve complex problems.
             </p>
         </section>
 
@@ -35,7 +35,7 @@ export default function Homepage() {
 
         <section id="contact" className="about">
             <h2>Contact Me</h2>
-            <p>If you'd like to collaborate or just say hi, feel free to reach out!</p>
+            <p>If you&apos;d like to collaborate or just say hi, feel free to reach out!</p>
             <p>Email: john.doe@example.com</p>
             <p>LinkedIn: <a href="https://linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></p>
             <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
