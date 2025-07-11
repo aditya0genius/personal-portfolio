@@ -42,9 +42,9 @@ Let’s build something amazing together! 🚀
         <section id="contact" className="about">
             <h2>Contact Me</h2>
             <p>If you&apos;d like to collaborate or just say hi, feel free to reach out!</p>
-            <p>Email: john.doe@example.com</p>
-            <p>LinkedIn: <a href="https://linkedin.com/in/johndoe" target="_blank">linkedin.com/in/johndoe</a></p>
-            <p>GitHub: <a href="https://github.com/username" target="_blank">github.com/username</a></p>
+            <p>Email: adityadeshmukh168@gmail.com</p>
+            <p>LinkedIn: <a href="https://linkedin.com/in/aditya0genius" target="_blank">linkedin.com/in/aditya0genius</a></p>
+            <p>GitHub: <a href="https://github.com/aditya0genius" target="_blank">github.com/aditya0genius</a></p>
         </section>
     </div>
 
