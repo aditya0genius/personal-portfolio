@@ -4,10 +4,16 @@ export default function Homepage() {
     <div>
         <div className="container">
         <section id="about" className="about">
-            <h2>About Me</h2>
+            <h2><b>About Me</b></h2>
             <p>
-                Hi! I&apos;m John Doe, a passionate full stack developer with 2 years of experience in creating dynamic and responsive web applications. I love crafting clean code and building efficient solutions to solve complex problems.
-            </p>
+            I am a passionate Full Stack Engineer with two years of experience specializing in frontend web design and development. I have a keen eye for creating visually appealing, user-friendly interfaces while ensuring seamless functionality across the entire web stack.
+
+Proficient in HTML, CSS, JavaScript, React, and Vue.js, I focus on crafting responsive and interactive web applications that enhance user engagement. On the backend, I have experience working with Node.js, Express, and databases like MongoDB and MySQL, enabling me to develop robust, scalable solutions.
+
+I thrive in collaborative environments, working closely with designers, developers, and stakeholders to bring creative ideas to life. Always eager to learn and adapt to new technologies, I am committed to writing clean, maintainable code that drives efficiency and innovation.
+
+Let’s build something amazing together! 🚀
+</p>
         </section>
 
         <section id="projects">
